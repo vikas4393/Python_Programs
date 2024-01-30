@@ -6,7 +6,7 @@
 3 . Write a Python program to calculate the area of a rectangle given its length and width   <br>
 4 . Write a program to check if a number is even or odd   <br>
 5 . Python program to Count Even and Odd numbers in a List   <br>
-6 . WAP to create two lists, one containing all even numbers and the other containing all odd numbers between 0 to 151   <br>
+6 . WAP to create two lists, one containing all even numbers and the other containing all odd numbers between 0 to 51   <br>
 7 . Write a Python program to check if a number is prime.   <br>
 8 . Given a list of numbers, find the maximum and minimum values   <br>
 9 . Write a Python program to find the second largest number in a list.   <br>
@@ -34,7 +34,7 @@
 31. Python Program to remove element from list   <br>
 32. Python Program to insert element in list at given index   <br>
 33. You are given a list of integer elements. Make a new list that will store a square of elements of the previous list.   <br>
-34. WAP to make new lists, containing only numbers which are divisible by 4, 6, 8, 10, 3, 5, 7, and 9 in separate lists for range(0,151)   <br>
+34. WAP to make new lists, containing only numbers which are divisible by 4, 6, 8, 10, 3, 5, 7, and 9 in separate lists for range(0,51)   <br>
 35. From a list containing ints, strings, and floats, make three lists to store them separately   <br>
 36. Write a Python program to find the third-largest number in a list   <br>
 37. Write a Python program to check whether a list contains a sublist   <br>
@@ -234,6 +234,7 @@
 231. Python Program to Check Whether a given Year is a Leap Year   <br>
 232. Python Program to Convert Centimeters to Feet and Inches   <br>
 233. Python Program to Read a Number n and Compute n+nn+nnn   <br>
+234. Given an m x n integer matrix, if any element is 0, set its entire row and column to 0's.
 
 
 Print pattern take value for rows from user. here 5
